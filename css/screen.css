@@ -31,7 +31,7 @@ input[type="email"] {
 /* Mobile-first Form */
 form {
   padding: 10rem 3.5rem;
-  background-color: #F5EEF8;
+  background-color: #EBF5FB;
   margin: 10rem auto;
   box-shadow: 0 0.4rem 1.2rem rgba(0, 0, 0, 0.1);
   width: 80%;
@@ -57,7 +57,7 @@ input[type="checkbox"] {
 }
 
 input[type="submit"] {
-  background-color: #76448A;
+  background-color: #2E86C1;
   color: #fff;
   padding: 0.8rem 1.6rem; /* 8px 16px */
   margin-top: 1.8rem;
@@ -71,7 +71,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background-color: #005d99;
+  background-color: #C0392B;
 }
 
 /* Media Query for Larger Screens */
